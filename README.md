@@ -27,7 +27,8 @@ You should be comfortable with R and RStudio and have some knowledge of college-
 
 * [Machine Learning with R - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781784393908)
 
-* [Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/practical-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785880360)### Download a free PDF
+* [Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/practical-deep-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785880360)
 
+### Machine Learning with R: second edition
  <i>Main reference: <br>eBook</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781788478403">https://packt.link/free-ebook/9781788478403 </a> </p>
